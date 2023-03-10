@@ -1,0 +1,12 @@
+<div className="">
+    <div className="flex flex-row">
+      <div
+        className=`h-[200px] flex flex-col`>
+        <h1> {"Col1"->React.string} </h1>
+      </div>
+      <div className=`h-[400px]  flex flex-col`>
+        <h1> {"Col2"->React.string} </h1>
+      </div>
+    </div>
+    <div />
+  </div>
